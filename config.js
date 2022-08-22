@@ -1,5 +1,5 @@
 module.exports = {
-    TOKEN: "MTAxMTM0MjUyNTEyNDA2MzI1Mg.GZrpY7.7ZC6WbiqXulvW_ePHt4MFDvenDlaad3d5RT2tk",
+    TOKEN: "",
     ownerID: "921823508672180255", //write your discord user id.
     botInvite: "https://discord.com/api/oauth2/authorize?client_id=1011342525124063252&permissions=8&scope=bot%20applications.commands", //write your discord bot invite.
     status: '❤️ qHerox',
